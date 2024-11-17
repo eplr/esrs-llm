@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<xbench version="2.9.438" savedwith="3.0.1593">
+  <project>
+    <filename xml:space="preserve">C:\Users\fidestra\OneDrive - fidestra\_développement\_Hermès\LLM\00_OTHER\XBP\ESRS-ML.xbp</filename>
+    <maxcols>0</maxcols>
+    <showfilename>1</showfilename>
+    <showkeytermsattop>1</showkeytermsattop>
+    <removedupes>0</removedupes>
+    <autorefreshinterval>0</autorefreshinterval>
+    <instructions xml:space="preserve"></instructions>
+    <memoryfile></memoryfile>
+    <checklistgroup>
+      <checklist name="$project"></checklist>
+    </checklistgroup>
+    <glossarylist>
+      <glossary type="6">
+        <ident>0</ident>
+        <filename xml:space="preserve">..\..\02_TMX\ESRS-ML.tmx</filename>
+        <level>1</level>
+        <process>0</process>
+        <static>0</static>
+        <srclang>0</srclang>
+        <trglang>0</trglang>
+        <flag>0</flag>
+        <comments></comments>
+        <removedupes>0</removedupes>
+        <newtranslations>0</newtranslations>
+        <swapsourcetarget>0</swapsourcetarget>
+        <keyterms>0</keyterms>
+        <autorefresh>0</autorefresh>
+        <options>
+          <includemissing>0</includemissing>
+          <sourcelanguage>en-GB</sourcelanguage>
+          <targetlanguage>fr-FR</targetlanguage>
+        </options>
+      </glossary>
+    </glossarylist>
+  </project>
+</xbench>

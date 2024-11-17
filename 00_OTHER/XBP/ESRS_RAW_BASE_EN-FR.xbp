@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<xbench version="2.9.438" savedwith="3.0.1593">
+  <project>
+    <filename xml:space="preserve">C:\Users\fidestra\OneDrive - fidestra\_développement\_Hermès\LLM\00_OTHER\XBP\ESRS_RAW_BASE_EN-FR.xbp</filename>
+    <maxcols>0</maxcols>
+    <showfilename>1</showfilename>
+    <showkeytermsattop>1</showkeytermsattop>
+    <removedupes>0</removedupes>
+    <autorefreshinterval>0</autorefreshinterval>
+    <instructions xml:space="preserve"></instructions>
+    <memoryfile></memoryfile>
+    <checklistgroup>
+      <checklist name="$project"></checklist>
+    </checklistgroup>
+    <glossarylist>
+      <glossary type="1">
+        <ident>0</ident>
+        <filename xml:space="preserve">..\..\01_TAB-DELIMITED\ESRS_RAW_BASE_EN-FR.xlsx</filename>
+        <level>3</level>
+        <process>0</process>
+        <static>0</static>
+        <srclang>0</srclang>
+        <trglang>0</trglang>
+        <flag>0</flag>
+        <comments></comments>
+        <removedupes>1</removedupes>
+        <newtranslations>0</newtranslations>
+        <swapsourcetarget>0</swapsourcetarget>
+        <keyterms>0</keyterms>
+        <autorefresh>0</autorefresh>
+      </glossary>
+      <glossary type="1">
+        <ident>1</ident>
+        <filename xml:space="preserve">..\..\01_TAB-DELIMITED\ESRS_ACRONYMS_EN-FR.xlsx</filename>
+        <level>3</level>
+        <process>0</process>
+        <static>0</static>
+        <srclang>0</srclang>
+        <trglang>0</trglang>
+        <flag>0</flag>
+        <comments></comments>
+        <removedupes>1</removedupes>
+        <newtranslations>0</newtranslations>
+        <swapsourcetarget>0</swapsourcetarget>
+        <keyterms>0</keyterms>
+        <autorefresh>0</autorefresh>
+      </glossary>
+      <glossary type="1">
+        <ident>2</ident>
+        <filename xml:space="preserve">..\..\01_TAB-DELIMITED\ESRS_NAMES_EN-FR.xlsx</filename>
+        <level>3</level>
+        <process>0</process>
+        <static>0</static>
+        <srclang>0</srclang>
+        <trglang>0</trglang>
+        <flag>0</flag>
+        <comments></comments>
+        <removedupes>1</removedupes>
+        <newtranslations>0</newtranslations>
+        <swapsourcetarget>0</swapsourcetarget>
+        <keyterms>0</keyterms>
+        <autorefresh>0</autorefresh>
+      </glossary>
+    </glossarylist>
+  </project>
+</xbench>
